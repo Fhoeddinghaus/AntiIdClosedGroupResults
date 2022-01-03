@@ -1,0 +1,1200 @@
+p[1]: a → a
+p[2]: a → a
+p[3]: a → b → a
+p[4]: a → c → b → a
+p[5]: a → b → c → a
+p[6]: a → c → a
+p[7]: a → a
+p[8]: a → a
+p[9]: a → b → d → a
+p[10]: a → c → f → d → a
+p[11]: a → b → f → e → a
+p[12]: a → c → e → a
+p[13]: a → d → b → a
+p[14]: a → e → f → b → a
+p[15]: a → d → a
+p[16]: a → e → d → a
+p[17]: a → f → a
+p[18]: a → f → a
+p[19]: a → d → f → c → a
+p[20]: a → e → c → a
+p[21]: a → d → e → a
+p[22]: a → e → a
+p[23]: a → f → a
+p[24]: a → f → a
+p[25]: a → a
+p[26]: a → a
+p[27]: a → b → a
+p[28]: a → c → b → a
+p[29]: a → b → c → a
+p[30]: a → c → a
+p[31]: a → a
+p[32]: a → a
+p[33]: a → b → d → g → a
+p[34]: a → c → f → j → g → a
+p[35]: a → b → f → j → h → a
+p[36]: a → c → e → h → a
+p[37]: a → d → g → b → a
+p[38]: a → e → j → i → b → a
+p[39]: a → d → g → a
+p[40]: a → e → j → g → a
+p[41]: a → f → g → c → d → i → a
+p[42]: a → f → h → d → i → a
+p[43]: a → d → j → i → c → a
+p[44]: a → e → h → c → a
+p[45]: a → d → j → h → a
+p[46]: a → e → h → a
+p[47]: a → f → g → e → i → a
+p[48]: a → f → h → b → e → i → a
+p[49]: a → a
+p[50]: a → a
+p[51]: a → b → g → d → a
+p[52]: a → c → i → j → d → a
+p[53]: a → b → i → j → e → a
+p[54]: a → c → h → e → a
+p[55]: a → a
+p[56]: a → a
+p[57]: a → b → g → a
+p[58]: a → c → i → g → a
+p[59]: a → b → i → h → a
+p[60]: a → c → h → a
+p[61]: a → d → a
+p[62]: a → e → d → a
+p[63]: a → d → b → g → a
+p[64]: a → e → f → i → g → a
+p[65]: a → f → g → c → j → a
+p[66]: a → f → h → d → c → j → a
+p[67]: a → d → e → a
+p[68]: a → e → a
+p[69]: a → d → f → i → h → a
+p[70]: a → e → c → h → a
+p[71]: a → f → g → e → b → j → a
+p[72]: a → f → h → b → j → a
+p[73]: a → g → d → b → a
+p[74]: a → h → j → f → b → a
+p[75]: a → g → d → a
+p[76]: a → h → j → d → a
+p[77]: a → i → d → c → g → f → a
+p[78]: a → i → e → g → f → a
+p[79]: a → g → b → a
+p[80]: a → h → i → b → a
+p[81]: a → g → a
+p[82]: a → h → g → a
+p[83]: a → i → a
+p[84]: a → i → a
+p[85]: a → g → b → d → a
+p[86]: a → h → i → f → d → a
+p[87]: a → g → a
+p[88]: a → h → g → a
+p[89]: a → i → e → g → c → j → a
+p[90]: a → i → d → c → j → a
+p[91]: a → j → c → g → f → a
+p[92]: a → j → b → e → g → f → a
+p[93]: a → j → c → g → e → i → a
+p[94]: a → j → b → e → i → a
+p[95]: a → j → a
+p[96]: a → j → a
+p[97]: a → g → j → f → c → a
+p[98]: a → h → e → c → a
+p[99]: a → g → j → e → a
+p[100]: a → h → e → a
+p[101]: a → i → d → h → f → a
+p[102]: a → i → e → b → h → f → a
+p[103]: a → g → i → c → a
+p[104]: a → h → c → a
+p[105]: a → g → h → a
+p[106]: a → h → a
+p[107]: a → i → a
+p[108]: a → i → a
+p[109]: a → g → i → f → e → a
+p[110]: a → h → c → e → a
+p[111]: a → g → h → a
+p[112]: a → h → a
+p[113]: a → i → e → b → j → a
+p[114]: a → i → d → h → b → j → a
+p[115]: a → j → c → d → h → f → a
+p[116]: a → j → b → h → f → a
+p[117]: a → j → c → d → i → a
+p[118]: a → j → b → h → d → i → a
+p[119]: a → j → a
+p[120]: a → j → a
+p[1]: b → b
+p[2]: b → c → b
+p[3]: b → a → b
+p[4]: b → a → c → b
+p[5]: b → c → a → b
+p[6]: b → b
+p[7]: b → d → b
+p[8]: b → e → b
+p[9]: b → d → a → b
+p[10]: b → e → b
+p[11]: b → f → e → a → b
+p[12]: b → f → d → b
+p[13]: b → a → d → b
+p[14]: b → a → e → f → b
+p[15]: b → b
+p[16]: b → c → f → b
+p[17]: b → b
+p[18]: b → c → e → d → b
+p[19]: b → e → b
+p[20]: b → d → f → b
+p[21]: b → f → c → b
+p[22]: b → f → b
+p[23]: b → d → e → c → b
+p[24]: b → e → b
+p[25]: b → b
+p[26]: b → c → b
+p[27]: b → a → b
+p[28]: b → a → c → b
+p[29]: b → c → a → b
+p[30]: b → b
+p[31]: b → d → g → b
+p[32]: b → e → g → c → d → h → b
+p[33]: b → d → g → a → b
+p[34]: b → e → i → d → h → b
+p[35]: b → f → j → h → a → b
+p[36]: b → f → j → g → b
+p[37]: b → a → d → g → b
+p[38]: b → a → e → j → i → b
+p[39]: b → b
+p[40]: b → c → f → i → b
+p[41]: b → b
+p[42]: b → c → e → j → g → b
+p[43]: b → e → g → f → h → b
+p[44]: b → d → j → i → b
+p[45]: b → f → i → c → b
+p[46]: b → f → i → b
+p[47]: b → d → j → h → c → b
+p[48]: b → e → i → a → f → h → b
+p[49]: b → g → d → b
+p[50]: b → h → d → c → g → e → b
+p[51]: b → g → d → a → b
+p[52]: b → h → f → g → e → b
+p[53]: b → i → j → e → a → b
+p[54]: b → i → j → d → b
+p[55]: b → g → b
+p[56]: b → h → b
+p[57]: b → g → a → b
+p[58]: b → h → b
+p[59]: b → i → h → a → b
+p[60]: b → i → g → b
+p[61]: b → g → b
+p[62]: b → h → f → g → c → j → b
+p[63]: b → g → a → d → b
+p[64]: b → h → d → c → j → b
+p[65]: b → i → h → e → d → b
+p[66]: b → i → g → b
+p[67]: b → j → c → g → f → h → b
+p[68]: b → j → b
+p[69]: b → j → c → g → e → b
+p[70]: b → j → b
+p[71]: b → j → a → f → g → e → b
+p[72]: b → j → a → f → h → b
+p[73]: b → a → g → d → b
+p[74]: b → a → h → j → f → b
+p[75]: b → b
+p[76]: b → c → i → f → b
+p[77]: b → b
+p[78]: b → c → h → j → d → b
+p[79]: b → a → g → b
+p[80]: b → a → h → i → b
+p[81]: b → b
+p[82]: b → c → i → b
+p[83]: b → b
+p[84]: b → c → h → g → b
+p[85]: b → d → a → g → b
+p[86]: b → e → g → c → j → b
+p[87]: b → d → b
+p[88]: b → e → i → d → c → j → b
+p[89]: b → f → d → b
+p[90]: b → f → e → h → g → b
+p[91]: b → d → e → h → i → b
+p[92]: b → e → g → f → a → j → b
+p[93]: b → d → f → b
+p[94]: b → e → i → a → j → b
+p[95]: b → f → b
+p[96]: b → f → c → i → b
+p[97]: b → h → d → i → e → b
+p[98]: b → g → j → f → b
+p[99]: b → i → f → c → b
+p[100]: b → i → f → b
+p[101]: b → g → j → e → c → b
+p[102]: b → h → f → a → i → e → b
+p[103]: b → h → b
+p[104]: b → g → i → b
+p[105]: b → i → c → b
+p[106]: b → i → b
+p[107]: b → g → h → c → b
+p[108]: b → h → b
+p[109]: b → j → c → d → h → b
+p[110]: b → j → b
+p[111]: b → j → c → d → i → e → b
+p[112]: b → j → b
+p[113]: b → j → a → i → e → b
+p[114]: b → j → a → i → d → h → b
+p[115]: b → g → i → b
+p[116]: b → h → f → a → j → b
+p[117]: b → g → h → e → f → b
+p[118]: b → h → d → i → a → j → b
+p[119]: b → i → c → f → b
+p[120]: b → i → b
+p[1]: c → c
+p[2]: c → b → c
+p[3]: c → c
+p[4]: c → b → a → c
+p[5]: c → a → b → c
+p[6]: c → a → c
+p[7]: c → e → c
+p[8]: c → d → c
+p[9]: c → f → e → c
+p[10]: c → f → d → a → c
+p[11]: c → d → c
+p[12]: c → e → a → c
+p[13]: c → e → f → c
+p[14]: c → d → c
+p[15]: c → f → c
+p[16]: c → f → b → c
+p[17]: c → d → c
+p[18]: c → e → d → b → c
+p[19]: c → a → d → f → c
+p[20]: c → a → e → c
+p[21]: c → b → f → c
+p[22]: c → c
+p[23]: c → b → d → e → c
+p[24]: c → c
+p[25]: c → c
+p[26]: c → b → c
+p[27]: c → c
+p[28]: c → b → a → c
+p[29]: c → a → b → c
+p[30]: c → a → c
+p[31]: c → e → h → c
+p[32]: c → d → h → b → e → g → c
+p[33]: c → f → j → h → c
+p[34]: c → f → j → g → a → c
+p[35]: c → d → i → e → g → c
+p[36]: c → e → h → a → c
+p[37]: c → e → j → i → c
+p[38]: c → d → h → f → g → c
+p[39]: c → f → i → c
+p[40]: c → f → i → b → c
+p[41]: c → d → i → a → f → g → c
+p[42]: c → e → j → g → b → c
+p[43]: c → a → d → j → i → c
+p[44]: c → a → e → h → c
+p[45]: c → b → f → i → c
+p[46]: c → c
+p[47]: c → b → d → j → h → c
+p[48]: c → c
+p[49]: c → h → e → c
+p[50]: c → g → e → b → h → d → c
+p[51]: c → i → j → e → c
+p[52]: c → i → j → d → a → c
+p[53]: c → g → f → h → d → c
+p[54]: c → h → e → a → c
+p[55]: c → h → c
+p[56]: c → g → c
+p[57]: c → i → h → c
+p[58]: c → i → g → a → c
+p[59]: c → g → c
+p[60]: c → h → a → c
+p[61]: c → j → c
+p[62]: c → j → b → h → f → g → c
+p[63]: c → j → c
+p[64]: c → j → b → h → d → c
+p[65]: c → j → a → f → g → c
+p[66]: c → j → a → f → h → d → c
+p[67]: c → g → f → h → b → j → c
+p[68]: c → h → c
+p[69]: c → g → e → b → j → c
+p[70]: c → h → a → e → c
+p[71]: c → i → h → c
+p[72]: c → i → g → d → e → c
+p[73]: c → h → j → f → c
+p[74]: c → g → e → i → d → c
+p[75]: c → i → f → c
+p[76]: c → i → f → b → c
+p[77]: c → g → f → a → i → d → c
+p[78]: c → h → j → d → b → c
+p[79]: c → h → i → c
+p[80]: c → g → c
+p[81]: c → i → c
+p[82]: c → i → b → c
+p[83]: c → g → c
+p[84]: c → h → g → b → c
+p[85]: c → j → c
+p[86]: c → j → b → e → g → c
+p[87]: c → j → c
+p[88]: c → j → b → e → i → d → c
+p[89]: c → j → a → i → e → g → c
+p[90]: c → j → a → i → d → c
+p[91]: c → g → f → a → j → c
+p[92]: c → h → i → c
+p[93]: c → g → e → i → a → j → c
+p[94]: c → h → g → d → f → c
+p[95]: c → i → c
+p[96]: c → i → b → f → c
+p[97]: c → a → g → j → f → c
+p[98]: c → a → h → e → c
+p[99]: c → b → i → f → c
+p[100]: c → c
+p[101]: c → b → g → j → e → c
+p[102]: c → c
+p[103]: c → a → g → i → c
+p[104]: c → a → h → c
+p[105]: c → b → i → c
+p[106]: c → c
+p[107]: c → b → g → h → c
+p[108]: c → c
+p[109]: c → d → h → b → j → c
+p[110]: c → e → a → h → c
+p[111]: c → d → i → e → b → j → c
+p[112]: c → e → c
+p[113]: c → f → d → g → h → c
+p[114]: c → f → e → c
+p[115]: c → d → h → f → a → j → c
+p[116]: c → e → d → g → i → c
+p[117]: c → d → i → a → j → c
+p[118]: c → e → f → c
+p[119]: c → f → b → i → c
+p[120]: c → f → c
+p[1]: d → d
+p[2]: d → e → d
+p[3]: d → d
+p[4]: d → e → f → d
+p[5]: d → f → e → d
+p[6]: d → f → d
+p[7]: d → b → d
+p[8]: d → c → d
+p[9]: d → a → b → d
+p[10]: d → a → c → f → d
+p[11]: d → c → d
+p[12]: d → b → f → d
+p[13]: d → b → a → d
+p[14]: d → c → d
+p[15]: d → a → d
+p[16]: d → a → e → d
+p[17]: d → c → d
+p[18]: d → b → c → e → d
+p[19]: d → f → c → a → d
+p[20]: d → f → b → d
+p[21]: d → e → a → d
+p[22]: d → d
+p[23]: d → e → c → b → d
+p[24]: d → d
+p[25]: d → g → d
+p[26]: d → h → d
+p[27]: d → g → d
+p[28]: d → h → f → g → e → i → d
+p[29]: d → i → e → g → f → h → d
+p[30]: d → i → d
+p[31]: d → g → b → d
+p[32]: d → h → b → e → g → c → d
+p[33]: d → g → a → b → d
+p[34]: d → h → b → e → i → d
+p[35]: d → i → e → g → c → d
+p[36]: d → i → d
+p[37]: d → g → b → a → d
+p[38]: d → h → f → g → c → d
+p[39]: d → g → a → d
+p[40]: d → h → d
+p[41]: d → i → a → f → g → c → d
+p[42]: d → i → a → f → h → d
+p[43]: d → j → i → c → a → d
+p[44]: d → j → i → b → d
+p[45]: d → j → h → a → d
+p[46]: d → j → g → d
+p[47]: d → j → h → c → b → d
+p[48]: d → j → g → d
+p[49]: d → b → g → d
+p[50]: d → c → g → e → b → h → d
+p[51]: d → a → b → g → d
+p[52]: d → a → c → i → j → d
+p[53]: d → c → g → f → h → d
+p[54]: d → b → i → j → d
+p[55]: d → d
+p[56]: d → e → d
+p[57]: d → d
+p[58]: d → e → f → j → d
+p[59]: d → f → j → e → d
+p[60]: d → f → j → d
+p[61]: d → a → d
+p[62]: d → a → e → d
+p[63]: d → b → g → a → d
+p[64]: d → c → j → b → h → d
+p[65]: d → b → i → h → e → d
+p[66]: d → c → j → a → f → h → d
+p[67]: d → e → a → d
+p[68]: d → d
+p[69]: d → f → i → h → a → d
+p[70]: d → f → i → g → d
+p[71]: d → d
+p[72]: d → e → c → i → g → d
+p[73]: d → b → a → g → d
+p[74]: d → c → g → e → i → d
+p[75]: d → a → g → d
+p[76]: d → a → h → j → d
+p[77]: d → c → g → f → a → i → d
+p[78]: d → b → c → h → j → d
+p[79]: d → d
+p[80]: d → e → j → f → d
+p[81]: d → d
+p[82]: d → e → j → d
+p[83]: d → f → d
+p[84]: d → f → e → j → d
+p[85]: d → a → g → b → d
+p[86]: d → a → h → i → f → d
+p[87]: d → b → d
+p[88]: d → c → j → b → e → i → d
+p[89]: d → b → f → d
+p[90]: d → c → j → a → i → d
+p[91]: d → e → h → i → b → d
+p[92]: d → d
+p[93]: d → f → b → d
+p[94]: d → f → c → h → g → d
+p[95]: d → d
+p[96]: d → e → h → g → d
+p[97]: d → i → e → b → h → d
+p[98]: d → i → d
+p[99]: d → h → d
+p[100]: d → g → j → d
+p[101]: d → h → f → a → i → d
+p[102]: d → g → j → d
+p[103]: d → j → f → e → d
+p[104]: d → j → f → d
+p[105]: d → j → e → d
+p[106]: d → j → d
+p[107]: d → j → e → f → d
+p[108]: d → j → d
+p[109]: d → h → b → j → c → d
+p[110]: d → g → i → f → d
+p[111]: d → i → e → b → j → c → d
+p[112]: d → i → d
+p[113]: d → g → h → c → f → d
+p[114]: d → h → b → j → a → i → d
+p[115]: d → h → f → a → j → c → d
+p[116]: d → g → i → c → e → d
+p[117]: d → i → a → j → c → d
+p[118]: d → i → a → j → b → h → d
+p[119]: d → g → h → e → d
+p[120]: d → h → d
+p[1]: e → e
+p[2]: e → d → e
+p[3]: e → f → e
+p[4]: e → f → d → e
+p[5]: e → d → f → e
+p[6]: e → e
+p[7]: e → c → e
+p[8]: e → b → e
+p[9]: e → c → f → e
+p[10]: e → b → e
+p[11]: e → a → b → f → e
+p[12]: e → a → c → e
+p[13]: e → f → c → e
+p[14]: e → f → b → a → e
+p[15]: e → e
+p[16]: e → d → a → e
+p[17]: e → e
+p[18]: e → d → b → c → e
+p[19]: e → b → e
+p[20]: e → c → a → e
+p[21]: e → a → d → e
+p[22]: e → a → e
+p[23]: e → c → b → d → e
+p[24]: e → b → e
+p[25]: e → h → e
+p[26]: e → g → e
+p[27]: e → i → e
+p[28]: e → i → d → h → f → g → e
+p[29]: e → g → f → h → d → i → e
+p[30]: e → h → e
+p[31]: e → h → c → e
+p[32]: e → g → c → d → h → b → e
+p[33]: e → i → e
+p[34]: e → i → d → h → b → e
+p[35]: e → g → c → d → i → e
+p[36]: e → h → a → c → e
+p[37]: e → j → i → c → e
+p[38]: e → j → i → b → a → e
+p[39]: e → j → h → e
+p[40]: e → j → g → a → e
+p[41]: e → j → h → e
+p[42]: e → j → g → b → c → e
+p[43]: e → g → f → h → b → e
+p[44]: e → h → c → a → e
+p[45]: e → g → e
+p[46]: e → h → a → e
+p[47]: e → i → a → f → g → e
+p[48]: e → i → a → f → h → b → e
+p[49]: e → c → h → e
+p[50]: e → b → h → d → c → g → e
+p[51]: e → c → i → j → e
+p[52]: e → b → h → f → g → e
+p[53]: e → a → b → i → j → e
+p[54]: e → a → c → h → e
+p[55]: e → e
+p[56]: e → d → e
+p[57]: e → f → j → e
+p[58]: e → f → j → d → e
+p[59]: e → d → f → j → e
+p[60]: e → e
+p[61]: e → e
+p[62]: e → d → a → e
+p[63]: e → f → i → h → e
+p[64]: e → f → i → g → a → e
+p[65]: e → d → b → i → h → e
+p[66]: e → e
+p[67]: e → a → d → e
+p[68]: e → a → e
+p[69]: e → b → j → c → g → e
+p[70]: e → c → h → a → e
+p[71]: e → b → j → a → f → g → e
+p[72]: e → c → i → g → d → e
+p[73]: e → i → e
+p[74]: e → i → d → c → g → e
+p[75]: e → h → j → e
+p[76]: e → g → e
+p[77]: e → h → j → e
+p[78]: e → g → f → a → i → e
+p[79]: e → j → f → e
+p[80]: e → j → f → d → e
+p[81]: e → j → e
+p[82]: e → j → d → e
+p[83]: e → j → e
+p[84]: e → j → d → f → e
+p[85]: e → h → i → f → e
+p[86]: e → g → c → j → b → e
+p[87]: e → i → e
+p[88]: e → i → d → c → j → b → e
+p[89]: e → g → c → j → a → i → e
+p[90]: e → h → g → b → f → e
+p[91]: e → h → i → b → d → e
+p[92]: e → g → f → a → j → b → e
+p[93]: e → i → a → j → c → g → e
+p[94]: e → i → a → j → b → e
+p[95]: e → g → e
+p[96]: e → h → g → d → e
+p[97]: e → b → h → d → i → e
+p[98]: e → c → a → h → e
+p[99]: e → a → g → j → e
+p[100]: e → a → h → e
+p[101]: e → c → b → g → j → e
+p[102]: e → b → h → f → a → i → e
+p[103]: e → d → j → f → e
+p[104]: e → e
+p[105]: e → d → j → e
+p[106]: e → e
+p[107]: e → f → d → j → e
+p[108]: e → f → e
+p[109]: e → a → g → i → f → e
+p[110]: e → a → h → c → e
+p[111]: e → b → j → c → d → i → e
+p[112]: e → c → e
+p[113]: e → b → j → a → i → e
+p[114]: e → c → f → e
+p[115]: e → e
+p[116]: e → d → g → i → c → e
+p[117]: e → f → b → g → h → e
+p[118]: e → f → c → e
+p[119]: e → d → g → h → e
+p[120]: e → e
+p[1]: f → f
+p[2]: f → f
+p[3]: f → e → f
+p[4]: f → d → e → f
+p[5]: f → e → d → f
+p[6]: f → d → f
+p[7]: f → f
+p[8]: f → f
+p[9]: f → e → c → f
+p[10]: f → d → a → c → f
+p[11]: f → e → a → b → f
+p[12]: f → d → b → f
+p[13]: f → c → e → f
+p[14]: f → b → a → e → f
+p[15]: f → c → f
+p[16]: f → b → c → f
+p[17]: f → a → f
+p[18]: f → a → f
+p[19]: f → c → a → d → f
+p[20]: f → b → d → f
+p[21]: f → c → b → f
+p[22]: f → b → f
+p[23]: f → a → f
+p[24]: f → a → f
+p[25]: f → i → f
+p[26]: f → i → f
+p[27]: f → h → f
+p[28]: f → g → e → i → d → h → f
+p[29]: f → h → d → i → e → g → f
+p[30]: f → g → f
+p[31]: f → j → i → f
+p[32]: f → j → i → f
+p[33]: f → j → h → c → f
+p[34]: f → j → g → a → c → f
+p[35]: f → j → h → a → b → f
+p[36]: f → j → g → b → f
+p[37]: f → h → f
+p[38]: f → g → c → d → h → f
+p[39]: f → i → c → f
+p[40]: f → i → b → c → f
+p[41]: f → g → c → d → i → a → f
+p[42]: f → h → d → i → a → f
+p[43]: f → h → b → e → g → f
+p[44]: f → g → f
+p[45]: f → i → c → b → f
+p[46]: f → i → b → f
+p[47]: f → g → e → i → a → f
+p[48]: f → h → b → e → i → a → f
+p[49]: f → i → j → f
+p[50]: f → i → j → f
+p[51]: f → h → f
+p[52]: f → g → e → b → h → f
+p[53]: f → h → d → c → g → f
+p[54]: f → g → f
+p[55]: f → j → f
+p[56]: f → j → f
+p[57]: f → j → e → f
+p[58]: f → j → d → e → f
+p[59]: f → j → e → d → f
+p[60]: f → j → d → f
+p[61]: f → h → f
+p[62]: f → g → c → j → b → h → f
+p[63]: f → i → h → e → f
+p[64]: f → i → g → a → e → f
+p[65]: f → g → c → j → a → f
+p[66]: f → h → d → c → j → a → f
+p[67]: f → h → b → j → c → g → f
+p[68]: f → g → f
+p[69]: f → i → h → a → d → f
+p[70]: f → i → g → d → f
+p[71]: f → g → e → b → j → a → f
+p[72]: f → h → b → j → a → f
+p[73]: f → c → h → j → f
+p[74]: f → b → a → h → j → f
+p[75]: f → c → i → f
+p[76]: f → b → c → i → f
+p[77]: f → a → i → d → c → g → f
+p[78]: f → a → i → e → g → f
+p[79]: f → e → j → f
+p[80]: f → d → e → j → f
+p[81]: f → f
+p[82]: f → f
+p[83]: f → d → f
+p[84]: f → e → j → d → f
+p[85]: f → e → h → i → f
+p[86]: f → d → a → h → i → f
+p[87]: f → f
+p[88]: f → f
+p[89]: f → d → b → f
+p[90]: f → e → h → g → b → f
+p[91]: f → a → j → c → g → f
+p[92]: f → a → j → b → e → g → f
+p[93]: f → b → d → f
+p[94]: f → c → h → g → d → f
+p[95]: f → b → f
+p[96]: f → c → i → b → f
+p[97]: f → c → a → g → j → f
+p[98]: f → b → g → j → f
+p[99]: f → c → b → i → f
+p[100]: f → b → i → f
+p[101]: f → a → i → d → h → f
+p[102]: f → a → i → e → b → h → f
+p[103]: f → e → d → j → f
+p[104]: f → d → j → f
+p[105]: f → f
+p[106]: f → f
+p[107]: f → d → j → e → f
+p[108]: f → e → f
+p[109]: f → e → a → g → i → f
+p[110]: f → d → g → i → f
+p[111]: f → f
+p[112]: f → f
+p[113]: f → d → g → h → c → f
+p[114]: f → e → c → f
+p[115]: f → a → j → c → d → h → f
+p[116]: f → a → j → b → h → f
+p[117]: f → b → g → h → e → f
+p[118]: f → c → e → f
+p[119]: f → b → i → c → f
+p[120]: f → c → f
+p[1]: g → g
+p[2]: g → h → g
+p[3]: g → g
+p[4]: g → h → i → g
+p[5]: g → i → h → g
+p[6]: g → i → g
+p[7]: g → g
+p[8]: g → h → g
+p[9]: g → g
+p[10]: g → h → i → j → g
+p[11]: g → i → j → h → g
+p[12]: g → i → j → g
+p[13]: g → g
+p[14]: g → h → j → i → g
+p[15]: g → g
+p[16]: g → h → j → g
+p[17]: g → i → g
+p[18]: g → i → h → j → g
+p[19]: g → j → i → h → g
+p[20]: g → j → i → g
+p[21]: g → j → h → g
+p[22]: g → j → g
+p[23]: g → j → h → i → g
+p[24]: g → j → g
+p[25]: g → d → g
+p[26]: g → e → g
+p[27]: g → d → g
+p[28]: g → e → i → d → h → f → g
+p[29]: g → f → h → d → i → e → g
+p[30]: g → f → g
+p[31]: g → b → d → g
+p[32]: g → c → d → h → b → e → g
+p[33]: g → a → b → d → g
+p[34]: g → a → c → f → j → g
+p[35]: g → c → d → i → e → g
+p[36]: g → b → f → j → g
+p[37]: g → b → a → d → g
+p[38]: g → c → d → h → f → g
+p[39]: g → a → d → g
+p[40]: g → a → e → j → g
+p[41]: g → c → d → i → a → f → g
+p[42]: g → b → c → e → j → g
+p[43]: g → f → h → b → e → g
+p[44]: g → f → g
+p[45]: g → e → g
+p[46]: g → d → j → g
+p[47]: g → e → i → a → f → g
+p[48]: g → d → j → g
+p[49]: g → d → b → g
+p[50]: g → e → b → h → d → c → g
+p[51]: g → d → a → b → g
+p[52]: g → e → b → h → f → g
+p[53]: g → f → h → d → c → g
+p[54]: g → f → g
+p[55]: g → b → g
+p[56]: g → c → g
+p[57]: g → a → b → g
+p[58]: g → a → c → i → g
+p[59]: g → c → g
+p[60]: g → b → i → g
+p[61]: g → b → g
+p[62]: g → c → j → b → h → f → g
+p[63]: g → a → d → b → g
+p[64]: g → a → e → f → i → g
+p[65]: g → c → j → a → f → g
+p[66]: g → b → i → g
+p[67]: g → f → h → b → j → c → g
+p[68]: g → f → g
+p[69]: g → e → b → j → c → g
+p[70]: g → d → f → i → g
+p[71]: g → e → b → j → a → f → g
+p[72]: g → d → e → c → i → g
+p[73]: g → d → b → a → g
+p[74]: g → e → i → d → c → g
+p[75]: g → d → a → g
+p[76]: g → e → g
+p[77]: g → f → a → i → d → c → g
+p[78]: g → f → a → i → e → g
+p[79]: g → b → a → g
+p[80]: g → c → g
+p[81]: g → a → g
+p[82]: g → a → h → g
+p[83]: g → c → g
+p[84]: g → b → c → h → g
+p[85]: g → b → d → a → g
+p[86]: g → c → j → b → e → g
+p[87]: g → a → g
+p[88]: g → a → h → g
+p[89]: g → c → j → a → i → e → g
+p[90]: g → b → f → e → h → g
+p[91]: g → f → a → j → c → g
+p[92]: g → f → a → j → b → e → g
+p[93]: g → e → i → a → j → c → g
+p[94]: g → d → f → c → h → g
+p[95]: g → e → g
+p[96]: g → d → e → h → g
+p[97]: g → j → f → c → a → g
+p[98]: g → j → f → b → g
+p[99]: g → j → e → a → g
+p[100]: g → j → d → g
+p[101]: g → j → e → c → b → g
+p[102]: g → j → d → g
+p[103]: g → i → c → a → g
+p[104]: g → i → b → g
+p[105]: g → h → a → g
+p[106]: g → g
+p[107]: g → h → c → b → g
+p[108]: g → g
+p[109]: g → i → f → e → a → g
+p[110]: g → i → f → d → g
+p[111]: g → h → a → g
+p[112]: g → g
+p[113]: g → h → c → f → d → g
+p[114]: g → g
+p[115]: g → i → b → g
+p[116]: g → i → c → e → d → g
+p[117]: g → h → e → f → b → g
+p[118]: g → g
+p[119]: g → h → e → d → g
+p[120]: g → g
+p[1]: h → h
+p[2]: h → g → h
+p[3]: h → i → h
+p[4]: h → i → g → h
+p[5]: h → g → i → h
+p[6]: h → h
+p[7]: h → h
+p[8]: h → g → h
+p[9]: h → i → j → h
+p[10]: h → i → j → g → h
+p[11]: h → g → i → j → h
+p[12]: h → h
+p[13]: h → j → i → h
+p[14]: h → j → i → g → h
+p[15]: h → j → h
+p[16]: h → j → g → h
+p[17]: h → j → h
+p[18]: h → j → g → i → h
+p[19]: h → g → j → i → h
+p[20]: h → h
+p[21]: h → g → j → h
+p[22]: h → h
+p[23]: h → i → g → j → h
+p[24]: h → i → h
+p[25]: h → e → h
+p[26]: h → d → h
+p[27]: h → f → h
+p[28]: h → f → g → e → i → d → h
+p[29]: h → d → i → e → g → f → h
+p[30]: h → e → h
+p[31]: h → c → e → h
+p[32]: h → b → e → g → c → d → h
+p[33]: h → c → f → j → h
+p[34]: h → b → e → i → d → h
+p[35]: h → a → b → f → j → h
+p[36]: h → a → c → e → h
+p[37]: h → f → h
+p[38]: h → f → g → c → d → h
+p[39]: h → e → j → h
+p[40]: h → d → h
+p[41]: h → e → j → h
+p[42]: h → d → i → a → f → h
+p[43]: h → b → e → g → f → h
+p[44]: h → c → a → e → h
+p[45]: h → a → d → j → h
+p[46]: h → a → e → h
+p[47]: h → c → b → d → j → h
+p[48]: h → b → e → i → a → f → h
+p[49]: h → e → c → h
+p[50]: h → d → c → g → e → b → h
+p[51]: h → f → h
+p[52]: h → f → g → e → b → h
+p[53]: h → d → c → g → f → h
+p[54]: h → e → a → c → h
+p[55]: h → c → h
+p[56]: h → b → h
+p[57]: h → c → i → h
+p[58]: h → b → h
+p[59]: h → a → b → i → h
+p[60]: h → a → c → h
+p[61]: h → f → h
+p[62]: h → f → g → c → j → b → h
+p[63]: h → e → f → i → h
+p[64]: h → d → c → j → b → h
+p[65]: h → e → d → b → i → h
+p[66]: h → d → c → j → a → f → h
+p[67]: h → b → j → c → g → f → h
+p[68]: h → c → h
+p[69]: h → a → d → f → i → h
+p[70]: h → a → e → c → h
+p[71]: h → c → i → h
+p[72]: h → b → j → a → f → h
+p[73]: h → j → f → c → h
+p[74]: h → j → f → b → a → h
+p[75]: h → j → e → h
+p[76]: h → j → d → a → h
+p[77]: h → j → e → h
+p[78]: h → j → d → b → c → h
+p[79]: h → i → c → h
+p[80]: h → i → b → a → h
+p[81]: h → h
+p[82]: h → g → a → h
+p[83]: h → h
+p[84]: h → g → b → c → h
+p[85]: h → i → f → e → h
+p[86]: h → i → f → d → a → h
+p[87]: h → h
+p[88]: h → g → a → h
+p[89]: h → h
+p[90]: h → g → b → f → e → h
+p[91]: h → i → b → d → e → h
+p[92]: h → i → c → h
+p[93]: h → h
+p[94]: h → g → d → f → c → h
+p[95]: h → h
+p[96]: h → g → d → e → h
+p[97]: h → d → i → e → b → h
+p[98]: h → e → c → a → h
+p[99]: h → d → h
+p[100]: h → e → a → h
+p[101]: h → f → a → i → d → h
+p[102]: h → f → a → i → e → b → h
+p[103]: h → b → h
+p[104]: h → c → a → h
+p[105]: h → a → g → h
+p[106]: h → a → h
+p[107]: h → c → b → g → h
+p[108]: h → b → h
+p[109]: h → b → j → c → d → h
+p[110]: h → c → e → a → h
+p[111]: h → a → g → h
+p[112]: h → a → h
+p[113]: h → c → f → d → g → h
+p[114]: h → b → j → a → i → d → h
+p[115]: h → f → a → j → c → d → h
+p[116]: h → f → a → j → b → h
+p[117]: h → e → f → b → g → h
+p[118]: h → d → i → a → j → b → h
+p[119]: h → e → d → g → h
+p[120]: h → d → h
+p[1]: i → i
+p[2]: i → i
+p[3]: i → h → i
+p[4]: i → g → h → i
+p[5]: i → h → g → i
+p[6]: i → g → i
+p[7]: i → j → i
+p[8]: i → j → i
+p[9]: i → j → h → i
+p[10]: i → j → g → h → i
+p[11]: i → j → h → g → i
+p[12]: i → j → g → i
+p[13]: i → h → j → i
+p[14]: i → g → h → j → i
+p[15]: i → i
+p[16]: i → i
+p[17]: i → g → i
+p[18]: i → h → j → g → i
+p[19]: i → h → g → j → i
+p[20]: i → g → j → i
+p[21]: i → i
+p[22]: i → i
+p[23]: i → g → j → h → i
+p[24]: i → h → i
+p[25]: i → f → i
+p[26]: i → f → i
+p[27]: i → e → i
+p[28]: i → d → h → f → g → e → i
+p[29]: i → e → g → f → h → d → i
+p[30]: i → d → i
+p[31]: i → f → j → i
+p[32]: i → f → j → i
+p[33]: i → e → i
+p[34]: i → d → h → b → e → i
+p[35]: i → e → g → c → d → i
+p[36]: i → d → i
+p[37]: i → c → e → j → i
+p[38]: i → b → a → e → j → i
+p[39]: i → c → f → i
+p[40]: i → b → c → f → i
+p[41]: i → a → f → g → c → d → i
+p[42]: i → a → f → h → d → i
+p[43]: i → c → a → d → j → i
+p[44]: i → b → d → j → i
+p[45]: i → c → b → f → i
+p[46]: i → b → f → i
+p[47]: i → a → f → g → e → i
+p[48]: i → a → f → h → b → e → i
+p[49]: i → j → f → i
+p[50]: i → j → f → i
+p[51]: i → j → e → c → i
+p[52]: i → j → d → a → c → i
+p[53]: i → j → e → a → b → i
+p[54]: i → j → d → b → i
+p[55]: i → i
+p[56]: i → i
+p[57]: i → h → c → i
+p[58]: i → g → a → c → i
+p[59]: i → h → a → b → i
+p[60]: i → g → b → i
+p[61]: i → i
+p[62]: i → i
+p[63]: i → h → e → f → i
+p[64]: i → g → a → e → f → i
+p[65]: i → h → e → d → b → i
+p[66]: i → g → b → i
+p[67]: i → i
+p[68]: i → i
+p[69]: i → h → a → d → f → i
+p[70]: i → g → d → f → i
+p[71]: i → h → c → i
+p[72]: i → g → d → e → c → i
+p[73]: i → e → i
+p[74]: i → d → c → g → e → i
+p[75]: i → f → c → i
+p[76]: i → f → b → c → i
+p[77]: i → d → c → g → f → a → i
+p[78]: i → e → g → f → a → i
+p[79]: i → c → h → i
+p[80]: i → b → a → h → i
+p[81]: i → c → i
+p[82]: i → b → c → i
+p[83]: i → a → i
+p[84]: i → a → i
+p[85]: i → f → e → h → i
+p[86]: i → f → d → a → h → i
+p[87]: i → e → i
+p[88]: i → d → c → j → b → e → i
+p[89]: i → e → g → c → j → a → i
+p[90]: i → d → c → j → a → i
+p[91]: i → b → d → e → h → i
+p[92]: i → c → h → i
+p[93]: i → a → j → c → g → e → i
+p[94]: i → a → j → b → e → i
+p[95]: i → c → i
+p[96]: i → b → f → c → i
+p[97]: i → e → b → h → d → i
+p[98]: i → d → i
+p[99]: i → f → c → b → i
+p[100]: i → f → b → i
+p[101]: i → d → h → f → a → i
+p[102]: i → e → b → h → f → a → i
+p[103]: i → c → a → g → i
+p[104]: i → b → g → i
+p[105]: i → c → b → i
+p[106]: i → b → i
+p[107]: i → a → i
+p[108]: i → a → i
+p[109]: i → f → e → a → g → i
+p[110]: i → f → d → g → i
+p[111]: i → e → b → j → c → d → i
+p[112]: i → d → i
+p[113]: i → e → b → j → a → i
+p[114]: i → d → h → b → j → a → i
+p[115]: i → b → g → i
+p[116]: i → c → e → d → g → i
+p[117]: i → a → j → c → d → i
+p[118]: i → a → j → b → h → d → i
+p[119]: i → c → f → b → i
+p[120]: i → b → i
+p[1]: j → j
+p[2]: j → j
+p[3]: j → j
+p[4]: j → j
+p[5]: j → j
+p[6]: j → j
+p[7]: j → i → j
+p[8]: j → i → j
+p[9]: j → h → i → j
+p[10]: j → g → h → i → j
+p[11]: j → h → g → i → j
+p[12]: j → g → i → j
+p[13]: j → i → h → j
+p[14]: j → i → g → h → j
+p[15]: j → h → j
+p[16]: j → g → h → j
+p[17]: j → h → j
+p[18]: j → g → i → h → j
+p[19]: j → i → h → g → j
+p[20]: j → i → g → j
+p[21]: j → h → g → j
+p[22]: j → g → j
+p[23]: j → h → i → g → j
+p[24]: j → g → j
+p[25]: j → j
+p[26]: j → j
+p[27]: j → j
+p[28]: j → j
+p[29]: j → j
+p[30]: j → j
+p[31]: j → i → f → j
+p[32]: j → i → f → j
+p[33]: j → h → c → f → j
+p[34]: j → g → a → c → f → j
+p[35]: j → h → a → b → f → j
+p[36]: j → g → b → f → j
+p[37]: j → i → c → e → j
+p[38]: j → i → b → a → e → j
+p[39]: j → h → e → j
+p[40]: j → g → a → e → j
+p[41]: j → h → e → j
+p[42]: j → g → b → c → e → j
+p[43]: j → i → c → a → d → j
+p[44]: j → i → b → d → j
+p[45]: j → h → a → d → j
+p[46]: j → g → d → j
+p[47]: j → h → c → b → d → j
+p[48]: j → g → d → j
+p[49]: j → f → i → j
+p[50]: j → f → i → j
+p[51]: j → e → c → i → j
+p[52]: j → d → a → c → i → j
+p[53]: j → e → a → b → i → j
+p[54]: j → d → b → i → j
+p[55]: j → f → j
+p[56]: j → f → j
+p[57]: j → e → f → j
+p[58]: j → d → e → f → j
+p[59]: j → e → d → f → j
+p[60]: j → d → f → j
+p[61]: j → c → j
+p[62]: j → b → h → f → g → c → j
+p[63]: j → c → j
+p[64]: j → b → h → d → c → j
+p[65]: j → a → f → g → c → j
+p[66]: j → a → f → h → d → c → j
+p[67]: j → c → g → f → h → b → j
+p[68]: j → b → j
+p[69]: j → c → g → e → b → j
+p[70]: j → b → j
+p[71]: j → a → f → g → e → b → j
+p[72]: j → a → f → h → b → j
+p[73]: j → f → c → h → j
+p[74]: j → f → b → a → h → j
+p[75]: j → e → h → j
+p[76]: j → d → a → h → j
+p[77]: j → e → h → j
+p[78]: j → d → b → c → h → j
+p[79]: j → f → e → j
+p[80]: j → f → d → e → j
+p[81]: j → e → j
+p[82]: j → d → e → j
+p[83]: j → e → j
+p[84]: j → d → f → e → j
+p[85]: j → c → j
+p[86]: j → b → e → g → c → j
+p[87]: j → c → j
+p[88]: j → b → e → i → d → c → j
+p[89]: j → a → i → e → g → c → j
+p[90]: j → a → i → d → c → j
+p[91]: j → c → g → f → a → j
+p[92]: j → b → e → g → f → a → j
+p[93]: j → c → g → e → i → a → j
+p[94]: j → b → e → i → a → j
+p[95]: j → a → j
+p[96]: j → a → j
+p[97]: j → f → c → a → g → j
+p[98]: j → f → b → g → j
+p[99]: j → e → a → g → j
+p[100]: j → d → g → j
+p[101]: j → e → c → b → g → j
+p[102]: j → d → g → j
+p[103]: j → f → e → d → j
+p[104]: j → f → d → j
+p[105]: j → e → d → j
+p[106]: j → d → j
+p[107]: j → e → f → d → j
+p[108]: j → d → j
+p[109]: j → c → d → h → b → j
+p[110]: j → b → j
+p[111]: j → c → d → i → e → b → j
+p[112]: j → b → j
+p[113]: j → a → i → e → b → j
+p[114]: j → a → i → d → h → b → j
+p[115]: j → c → d → h → f → a → j
+p[116]: j → b → h → f → a → j
+p[117]: j → c → d → i → a → j
+p[118]: j → b → h → d → i → a → j
+p[119]: j → a → j
+p[120]: j → a → j

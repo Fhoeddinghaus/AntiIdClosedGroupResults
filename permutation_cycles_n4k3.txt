@@ -1,0 +1,96 @@
+p[1]: a → a
+p[2]: a → a
+p[3]: a → a
+p[4]: a → a
+p[5]: a → a
+p[6]: a → a
+p[7]: a → b → a
+p[8]: a → b → a
+p[9]: a → c → b → a
+p[10]: a → d → c → b → a
+p[11]: a → c → d → b → a
+p[12]: a → d → b → a
+p[13]: a → b → c → a
+p[14]: a → b → d → c → a
+p[15]: a → c → a
+p[16]: a → d → c → a
+p[17]: a → c → a
+p[18]: a → d → b → c → a
+p[19]: a → b → c → d → a
+p[20]: a → b → d → a
+p[21]: a → c → d → a
+p[22]: a → d → a
+p[23]: a → c → b → d → a
+p[24]: a → d → a
+p[1]: b → b
+p[2]: b → b
+p[3]: b → c → b
+p[4]: b → d → c → b
+p[5]: b → c → d → b
+p[6]: b → d → b
+p[7]: b → a → b
+p[8]: b → a → b
+p[9]: b → a → c → b
+p[10]: b → a → d → c → b
+p[11]: b → a → c → d → b
+p[12]: b → a → d → b
+p[13]: b → c → a → b
+p[14]: b → d → c → a → b
+p[15]: b → b
+p[16]: b → b
+p[17]: b → d → b
+p[18]: b → c → a → d → b
+p[19]: b → c → d → a → b
+p[20]: b → d → a → b
+p[21]: b → b
+p[22]: b → b
+p[23]: b → d → a → c → b
+p[24]: b → c → b
+p[1]: c → c
+p[2]: c → d → c
+p[3]: c → b → c
+p[4]: c → b → d → c
+p[5]: c → d → b → c
+p[6]: c → c
+p[7]: c → c
+p[8]: c → d → c
+p[9]: c → b → a → c
+p[10]: c → b → a → d → c
+p[11]: c → d → b → a → c
+p[12]: c → c
+p[13]: c → a → b → c
+p[14]: c → a → b → d → c
+p[15]: c → a → c
+p[16]: c → a → d → c
+p[17]: c → a → c
+p[18]: c → a → d → b → c
+p[19]: c → d → a → b → c
+p[20]: c → c
+p[21]: c → d → a → c
+p[22]: c → c
+p[23]: c → b → d → a → c
+p[24]: c → b → c
+p[1]: d → d
+p[2]: d → c → d
+p[3]: d → d
+p[4]: d → c → b → d
+p[5]: d → b → c → d
+p[6]: d → b → d
+p[7]: d → d
+p[8]: d → c → d
+p[9]: d → d
+p[10]: d → c → b → a → d
+p[11]: d → b → a → c → d
+p[12]: d → b → a → d
+p[13]: d → d
+p[14]: d → c → a → b → d
+p[15]: d → d
+p[16]: d → c → a → d
+p[17]: d → b → d
+p[18]: d → b → c → a → d
+p[19]: d → a → b → c → d
+p[20]: d → a → b → d
+p[21]: d → a → c → d
+p[22]: d → a → d
+p[23]: d → a → c → b → d
+p[24]: d → a → d
